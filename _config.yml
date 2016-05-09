@@ -1,0 +1,28 @@
+name: 'BAM Creative '
+favicon: null
+layout_spectrum: 0.8278331530746073
+typography_spectrum: 0.6273097216617316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5202487446367741
+  lightness: 0.25147232320159674
+  saturation: 0.054263770347461104
+  rhythmicContrast: 0.38157518953084946
+purpose: []
